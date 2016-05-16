@@ -2,7 +2,7 @@ import _ from 'underscore'
 import React from 'react'
 import ReactDOM from 'react-dom'
 import OverlaidComponentRegistry from './overlaid-component-registry'
-import {ANCHOR_CLASS} from './anchor-helpers'
+import {ANCHOR_CLASS} from './overlaid-component-helpers'
 
 const MUTATION_CONFIG = {
   subtree: true,

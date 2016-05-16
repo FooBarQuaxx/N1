@@ -1,5 +1,5 @@
 import {Utils} from 'nylas-exports'
-import {buildAnchorTag} from './anchor-helpers'
+import {buildAnchorTag} from './overlaid-component-helpers'
 
 class OverlaidComponentRegistry {
   constructor() {
